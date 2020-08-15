@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Health | Md Sayeef Alam</title>
+    <link>/pw/tag/public-health/</link>
+      <atom:link href="/pw/tag/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pw/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Public Health</title>
+      <link>/pw/tag/public-health/</link>
+    </image>
+    
+    <item>
+      <title>Path analysis of micronutrient deficiency among adolescents in India</title>
+      <link>/pw/research/public-health/index2/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/pw/research/public-health/index2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with resumption of postpartum sexual behaviours among Indian women.</title>
+      <link>/pw/research/public-health/index1/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/pw/research/public-health/index1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

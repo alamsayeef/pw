@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/pw/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/authors/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/daisy-saikia/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/md-sayeef-alam/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/research/public-health/index2/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/public-health/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/research/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tags/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/akif-mustafa/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/research/misc/index1/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/misc/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/publication-type/1/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/conference-proceedings/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/dr-b-paswan/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/dr-md-illias-k-sheikh/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/publication/conference-proceedings/index1/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/publication_types/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/publication/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/dr-chander-shekhar/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/research/public-health/index1/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/computational-biostatistics/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/dr-atanu-bhattacharya/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/research/computational-biostatistics/index1/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/akancha-singh/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/post/covid/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/kanupriya-kothiwal/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/author/nand-lal-mishra/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/post/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/publication/conference-proceedings/index2/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/classical-statistics/project1/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/classical-statistics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/machine-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/tag/other/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/classical-statistics/project2/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/machine-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/classical-statistics/project3/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/project/other/index1/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pw/categories/</loc>
+  </url>
+  
+</urlset>

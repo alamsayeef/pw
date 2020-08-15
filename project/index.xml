@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Md Sayeef Alam</title>
+    <link>/pw/project/</link>
+      <atom:link href="/pw/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pw/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/pw/project/</link>
+    </image>
+    
+    <item>
+      <title>ANOVA and Mann Whitney U Test</title>
+      <link>/pw/project/classical-statistics/project1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/classical-statistics/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pivot Tables and Descriptive Statistics</title>
+      <link>/pw/project/classical-statistics/project2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/classical-statistics/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised gene selection in high dimensional data</title>
+      <link>/pw/project/machine-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/machine-learning/</guid>
+      <description>&lt;p&gt;Feature/Variable selection is an important aspect in several domains ranging from finance to healthcare and research. Here we have applied varible selection methods in a high-dimensional data using supervised methods like lasso and elastic net.&lt;/p&gt;
+&lt;p&gt;Folow the link for detailed codes.
+&lt;a href=&#34;https://github.com/alamsayeef/variableselection&#34;&gt;https://github.com/alamsayeef/variableselection&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survival Analysis using CPH and KM Curves</title>
+      <link>/pw/project/classical-statistics/project3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/classical-statistics/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using API to capture data</title>
+      <link>/pw/project/other/index1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/other/index1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Md Sayeef Alam</title>
+    <link>/pw/publication/</link>
+      <atom:link href="/pw/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pw/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/pw/publication/</link>
+    </image>
+    
+    <item>
+      <title>Prevalence of communicable diseases and its epidemiological correlates in major urban populated states of India an evidence from a nationally representative sample</title>
+      <link>/pw/publication/conference-proceedings/index1/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/pw/publication/conference-proceedings/index1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifting Paradigm in the causes of Maternal Mortality in West Bengal A Facility and Community-based Mixed Method Study</title>
+      <link>/pw/publication/conference-proceedings/index2/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/pw/publication/conference-proceedings/index2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

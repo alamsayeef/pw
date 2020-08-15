@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Md Sayeef Alam</title>
+    <link>/pw/tag/machine-learning/</link>
+      <atom:link href="/pw/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/pw/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>/pw/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Supervised gene selection in high dimensional data</title>
+      <link>/pw/project/machine-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/pw/project/machine-learning/</guid>
+      <description>&lt;p&gt;Feature/Variable selection is an important aspect in several domains ranging from finance to healthcare and research. Here we have applied varible selection methods in a high-dimensional data using supervised methods like lasso and elastic net.&lt;/p&gt;
+&lt;p&gt;Folow the link for detailed codes.
+&lt;a href=&#34;https://github.com/alamsayeef/variableselection&#34;&gt;https://github.com/alamsayeef/variableselection&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
